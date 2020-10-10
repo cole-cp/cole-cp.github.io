@@ -6,7 +6,7 @@ Below is an overview of courses I have taught in the past. A summary of my teach
 
 **University of Michgan, Ann Arbor**
 
-#Economics 401 - Intermediate Microeconomic Theory
+###Economics 401 - Intermediate Microeconomic Theory
 Spring 2016
 Professor Tilman Borgers
 
