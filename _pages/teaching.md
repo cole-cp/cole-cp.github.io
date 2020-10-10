@@ -12,7 +12,7 @@ Professor Tilman Borgers
 
 Economics 451
 Fall 2015
-Professor Jeff Smith
+Professor Jeff Smith 
 
 **University of California, Berkeley**
 
