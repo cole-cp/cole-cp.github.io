@@ -63,7 +63,7 @@ author:
   bio    : "Labor and Public Economist and Applied Econometrician, Ph.D. Candidate in the Department of Economics at the University of Michigan"
   links:
     - label: "E-mail"
-      icon: "fas fa-fw fa-link"
+      icon: "fas fa-envelope-square"
       url: "https://"
 #    - label: "Twitter"
 #      icon: "fab fa-fw fa-twitter-square"
@@ -74,7 +74,6 @@ author:
 #    - label: "Instagram"
 #      icon: "fab fa-fw fa-instagram"
 #      url: "https://instagram.com/"
-
 
 footer:
   links:
