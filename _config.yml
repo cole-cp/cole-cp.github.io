@@ -23,6 +23,7 @@ twitter_username: username
 github_username: username
 minimal_mistakes_skin: "air"
 search: false
+teaser: /assets/images/UM_Logo_Teaser.jpg
 
 # Build settings
 markdown: kramdown
