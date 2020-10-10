@@ -62,7 +62,7 @@ author:
   avatar : "/assets/images/Cole_Connor_Website.jpg"
   bio    : "Labor and Public Economist and Applied Econometrician, Ph.D. Candidate in the Department of Economics at the University of Michigan"
   links:
-    - label: "Website"
+    - label: "E-mail"
       icon: "fas fa-fw fa-link"
       url: "https://"
 #    - label: "Twitter"
@@ -78,7 +78,7 @@ author:
 
 footer:
   links:
-    - label: "Website"
+    - label: "E-mail"
       icon: "fas fa-fw fa-link"
       url: "https://"
  #   - label: "Instagram"
