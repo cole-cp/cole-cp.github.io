@@ -83,8 +83,8 @@ author:
 footer:
   links:
     - label: "E-mail"
-      icon: "fas fa-fw fa-link"
-      url: "colecp@umich.edu"
+      icon: "fas fa-envelope-square"
+      url: "mailto:colecp@umich.edu"
  #   - label: "Instagram"
  #     icon: "fab fa-fw fa-instagram"
  #     url: "https://instagram.com/"
