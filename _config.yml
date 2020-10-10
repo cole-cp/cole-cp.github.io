@@ -65,15 +65,19 @@ author:
     - label: "E-mail"
       icon: "fas fa-envelope-square"
       url: "mailto:colecp@umich.edu"
-#    - label: "Twitter"
-#      icon: "fab fa-fw fa-twitter-square"
-#      url: "https://twitter.com/"
+    - label: "Google Scholar"
+      icon: "fab fa-google"
+      url: "https://scholar.google.com/citations?user=cy8uz1oAAAAJ&hl=en&oi=ao"
 #    - label: "GitHub"
 #      icon: "fab fa-fw fa-github"
 #      url: "https://github.com/"
 #    - label: "Instagram"
 #      icon: "fab fa-fw fa-instagram"
 #      url: "https://instagram.com/"
+#    - label: "Address"
+#      icon: "fab fa-fw fa-github"
+#      url: "https://github.com/"
+
 
 footer:
   links:
