@@ -2,6 +2,6 @@ main:
   - title: "Research"
     url: /
   - title: "CV"
-    url: /categories/
+    url: /assets/resume/Cole_Resume.pdf
   - title: "Teaching"
     url: /tags/
