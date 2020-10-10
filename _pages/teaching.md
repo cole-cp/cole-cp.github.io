@@ -9,7 +9,7 @@ Economics 401 - Intermediate Microeconomic Theory
 Spring 2016
 Professor Tilman Borgers
 
-#Economics 451
+Economics 451
 Fall 2015
 Professor Jeff Smith
 
