@@ -7,8 +7,9 @@
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
+# originally 16
 html {
-  font-size: 16px; // change to whatever
+  font-size: 4px; // change to whatever
 
   @include breakpoint($medium) {
     font-size: 18px; // change to whatever
