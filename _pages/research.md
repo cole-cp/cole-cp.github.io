@@ -3,7 +3,7 @@ permalink: /
 title: "Research"
 ---
 ## Dissertation ##
-Chapter 1: Effect of Income in Early Childhood: New Evidence Using Census Data and Tax Discontinuities (Job Market Paper)
+Chapter 1: Effect of Income in Early Childhood: New Evidence Using Census Data and Tax Discontinuities (Job Market Paper)  
 : [[pdf]](rockon.com)  
 Chapter 2: How Well Do Record Linkage Algorithms Perform? Lessons from US Historical Data" (forthcoming at the *Journal of Economic Literature*)  
 : (with Martha Bailey, Morgan Henderson and Catherine Massey)  
