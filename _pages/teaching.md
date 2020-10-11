@@ -19,10 +19,10 @@ Below is an overview of courses I have taught in the past. A summary of my teach
   Spring 2012 (Professor Steven Wood)  
 
 
-Term 1
-: definition 1
+Term 1  
+: definition 1  
 : definition 2
 
-Term 2
-: definition 1
+Term 2  
+: definition 1  
 : definition 2
