@@ -20,9 +20,9 @@ Below is an overview of courses I have taught in the past. A summary of my teach
 
 
 Term 1  
-: definition 1  
-: definition 2
+| definition 1  
+| definition 2
 
 Term 2  
-: definition 1  
-: definition 2
+| definition 1  
+| definition 2
