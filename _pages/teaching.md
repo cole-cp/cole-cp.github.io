@@ -19,5 +19,5 @@ Below is an overview of courses I have taught in the past. A summary of my teach
   Spring 2012 (Professor Steven Wood)  
   
 
-First Term 
+First Term  
 : This is the definition of the first term.
