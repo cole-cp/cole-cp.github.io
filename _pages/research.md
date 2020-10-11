@@ -6,7 +6,7 @@ title: "Research"
 ## Dissertation ##
 Chapter 1: Effect of Income in Early Childhood: New Evidence Using Census Data and Tax Discontinuities (Job Market Paper)  
 Chapter 2: How Well Do Record Linkage Algorithms Perform? Lessons from US Historical Data" (forthcoming at the *Journal of Economic Literature*)  
-[[pdf]](https://www.nber.org/papers/w24019)  [[published paper (gated)]](https://www.aeaweb.org/articles?id=10.1257/jel.20191526&&from=f)
+[[pdf]](https://www.nber.org/papers/w24019)   [[published paper (gated)]](https://www.aeaweb.org/articles?id=10.1257/jel.20191526&&from=f)  
 Chapter 3: Short and Long-term Effects of Exposure to Program Eligibility Cutoffs on Behavior: Evidence from the Medicaid Program
 
 ## Other Published Research ##
