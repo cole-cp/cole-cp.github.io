@@ -19,3 +19,10 @@ Below is an overview of courses I have taught in the past. A summary of my teach
   Spring 2012 (Professor Steven Wood)  
 
 
+&nbsp;
+: This is the text that I want indented.  All text on the same line as the preceding colon will be included in this definition.
+: If you include a second definition you'll get a new line; potentially separated by a space. <br />Some inline HTML may be supported within this too, allowing you to create new lines without spaces.
+: Support for other markdown syntax varies; e.g. we can add a bullet list, but each one's wrapped in a separate definition term, so the spacing may be out.
+: - item 1
+: - item 2
+: - item 3
