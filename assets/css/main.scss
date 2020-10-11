@@ -11,3 +11,20 @@ $link-color: red;
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
+
+# 16 18 20 22
+html {
+  font-size: 4px; // change to whatever
+
+  @include breakpoint($medium) {
+    font-size: 4px; // change to whatever
+  }
+
+  @include breakpoint($large) {
+    font-size: 4px; // change to whatever
+  }
+
+  @include breakpoint($x-large) {
+    font-size: 4px; // change to whatever
+  }
+}
