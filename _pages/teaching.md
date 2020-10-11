@@ -17,12 +17,7 @@ Below is an overview of courses I have taught in the past. A summary of my teach
 
 * Economics 100B - Intermediate Microeconomic Theory (Undergraduate)  
   Spring 2012 (Professor Steven Wood)  
+  
 
-
-
-| definition 1  
-|   definition 2
-
-Term 2  
-| definition 1  
-| definition 2
+First Term
+: This is the definition of the first term.
