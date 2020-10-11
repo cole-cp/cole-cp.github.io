@@ -25,7 +25,7 @@ Organizations
 : [[pdf]](https://escholarship.org/content/qt1sp77818/qt1sp77818.pdf)
 
 ## Research in Progress ##
-Estimating Functional Form Costs of Reporting Responses to Taxes
+Estimating Functional Form Costs of Reporting Responses to Taxes  
 : (with Teju Velayudhan)
 
 Effects of Minimum Wage Policies on Firms: Evidence from Germany  
