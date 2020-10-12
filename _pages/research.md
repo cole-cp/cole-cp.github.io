@@ -4,14 +4,15 @@ title: "Research"
 ---
 ## Dissertation ##
 Chapter 1: Effect of Income in Early Childhood: New Evidence Using Census Data and Tax Discontinuities (Job Market Paper)  
-: [[abstract]](assets/papers/Cole_JMP.pdf)  
+: [[dissertation abstract]](assets/papers/Cole_Dissertation_Abstract.pdf)  
 
-Chapter 2: How Well Do Record Linkage Algorithms Perform? Lessons from US Historical Data
+Chapter 2: How Well Do Record Linkage Algorithms Perform? Lessons from US Historical Data  
 : (with Martha Bailey, Morgan Henderson and Catherine Massey)  
 : Forthcoming at the *Journal of Economic Literature* (2020)
-: [[pdf]](https://www.nber.org/papers/w24019)   [[published paper (gated)]](https://www.aeaweb.org/articles?id=10.1257/jel.20191526&&from=f)  
+: [[dissertation abstract]](assets/papers/Cole_Dissertation_Abstract.pdf) [[pdf]](https://www.nber.org/papers/w24019)   [[published paper (gated)]](https://www.aeaweb.org/articles?id=10.1257/jel.20191526&&from=f)  
 
-**Chapter 3: Short and Long-term Effects of Exposure to Program Eligibility Cutoffs on Behavior: Evidence from the Medicaid Program**
+**Chapter 3: Short and Long-term Effects of Exposure to Program Eligibility Cutoffs on Behavior: Evidence from the Medicaid Program**  
+:[[dissertation abstract]](assets/papers/Cole_Dissertation_Abstract.pdf) 
 
 ## Other Published Research ##
 Simple strategies for improving inference with linked data: a case study of the 1850–1930 IPUMS linked representative historical samples  
