@@ -12,7 +12,7 @@ Chapter 2: How Well Do Record Linkage Algorithms Perform? Lessons from US Histor
 : [[dissertation abstract]](assets/papers/Cole_Dissertation_Abstract.pdf) [[pdf]](https://www.nber.org/papers/w24019)   [[published paper (gated)]](https://www.aeaweb.org/articles?id=10.1257/jel.20191526&&from=f)  
 
 **Chapter 3: Short and Long-term Effects of Exposure to Program Eligibility Cutoffs on Behavior: Evidence from the Medicaid Program**  
-:[[dissertation abstract]](assets/papers/Cole_Dissertation_Abstract.pdf) 
+: [[dissertation abstract]](assets/papers/Cole_Dissertation_Abstract.pdf) 
 
 ## Other Published Research ##
 Simple strategies for improving inference with linked data: a case study of the 1850–1930 IPUMS linked representative historical samples  
