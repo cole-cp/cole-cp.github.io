@@ -17,7 +17,7 @@ Chapter 2: How Well Do Record Linkage Algorithms Perform? Lessons from US Histor
 Simple strategies for improving inference with linked data: a case study of the 1850–1930 IPUMS linked representative historical samples  
 : (with Martha Bailey and Catherine Massey)  
 : *Historical Methods*, 53(2) (2019), 80–93.   
-: [[published paper (gated)]](https://www.tandfonline.com/doi/abs/10.1080/01615440.2019.1630343)
+: [[pdf]](assets/other_papers/BCM_SimpleStrategies.pdf)  [[published paper (gated)]](https://www.tandfonline.com/doi/abs/10.1080/01615440.2019.1630343)
 
 ## Working Papers ##
 The 2010 National Organizations Survey: Examining the Relationships Between Job Quality and the Domestic and International Sourcing of Business Functions by United States Organizations  
