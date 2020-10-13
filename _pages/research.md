@@ -3,7 +3,7 @@ permalink: /
 title: "Research"
 ---
 ## Dissertation ##
-Chapter 1: Effect of Income in Early Childhood: New Evidence Using Census Data and Tax Discontinuities (Job Market Paper)  
+Chapter 1: Effect of Family Income in Early Childhood on Child and Adult Outcomes: New Evidence Using Census Data and Tax Discontinuities (Job Market Paper)  
 : [[dissertation abstract]](assets/papers/Cole_Dissertation_Abstract.pdf)  
 
 Chapter 2: How Well Do Record Linkage Algorithms Perform? Lessons from US Historical Data  
