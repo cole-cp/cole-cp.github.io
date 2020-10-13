@@ -70,7 +70,7 @@ plugins:
 author:
   name   : "Connor Cole"
   avatar : "/assets/images/Cole_Connor_Website.jpg"
-  bio    : "Labor and Public Economist <br> Ph.D. Candidate in the Department of Economics at the University of Michigan <br> <br> On the Job Market in 2020-2021"
+  bio    : "Labor and Public Economist <br> <br> Ph.D. Candidate in the Department of Economics at the University of Michigan <br> <br> On the Job Market in 2020-2021"
   links:
     - label: "E-mail"
       icon: "fas fa-envelope-square"
