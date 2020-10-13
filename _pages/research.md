@@ -17,7 +17,7 @@ Chapter 2: How Well Do Record Linkage Algorithms Perform? Lessons from US Histor
 **Chapter 3: Short and Long-term Effects of Exposure to Program Eligibility Cutoffs on Behavior: Evidence from the Medicaid Program**  
 : [[dissertation abstract]](assets/papers/Cole_Dissertation_Abstract.pdf) 
 
-## Other Published Research ##
+## Published Research ##
 Simple strategies for improving inference with linked data: a case study of the 1850–1930 IPUMS linked representative historical samples  
 : (with Martha Bailey and Catherine Massey)  
 : *Historical Methods*, 53(2) (2019), 80–93.   
