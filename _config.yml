@@ -70,7 +70,7 @@ plugins:
 author:
   name   : "Connor Cole"
   avatar : "/assets/images/Cole_Connor_Website.jpg"
-  bio    : "Labor and Public Economist and Applied Econometrician, Ph.D. Candidate in the Department of Economics at the University of Michigan"
+  bio    : "Labor and Public Economist, Ph.D. Candidate in the Department of Economics at the University of Michigan"
   links:
     - label: "E-mail"
       icon: "fas fa-envelope-square"
