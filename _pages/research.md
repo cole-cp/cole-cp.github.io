@@ -2,7 +2,7 @@
 permalink: /
 title: "Overview and Current Research"
 ---
-My name is Connor Cole and I am a Ph.D. candidate in Economics at the University of Michigan. I expect to graduate in 2021. I am on the job market for 2020-2021 and will be at the 2021 Virtual ASSA Meetings. My research is primarily in labor economics, public economics, economic demography and applied econometrics. This website describes my previous and current research, describes my teaching history, and offers my CV. 
+I am a Ph.D. candidate in Economics at the University of Michigan and I expect to graduate in 2021. I am on the job market for 2020-2021 and will be at the 2021 Virtual ASSA Meetings. My research is primarily in labor economics, public economics, economic demography and applied econometrics. This website describes my previous and current research and my teaching history, and offers my CV. 
 
 
 ## Dissertation ##
