@@ -35,7 +35,7 @@ permalink: /research/
 #timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
- - _pages
+  - _pages
   
 
 
@@ -105,9 +105,9 @@ defaults:
       type: posts
     values:
       layout: single
-     author_profile: true
-     read_time: false
-     comments: false
+      author_profile: true
+      read_time: false
+      comments: false
       share: false
       related: false
   # _pages
@@ -115,7 +115,7 @@ defaults:
       path: "_pages"
       type: pages
     values:
-     layout: single
+      layout: single
       author_profile: true
 
 #category_archive:
