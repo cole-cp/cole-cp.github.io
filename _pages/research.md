@@ -7,7 +7,7 @@ I am a Ph.D. candidate in Economics at the University of Michigan and I expect t
 
 ## Dissertation ##
 Chapter 1: Effect of Family Income in Early Childhood on Child and Adult Outcomes: New Evidence Using Census Data and Tax Discontinuities (Job Market Paper)  
-: [[dissertation abstract]](assets/papers/Cole_Dissertation_Abstract.pdf)  
+: [[dissertation abstract]](assets/papers/Cole_Dissertation_Abstract.pdf) [[pdf]](assets/papers/Cole_JMP.pdf)  
 
 Chapter 2: How Well Do Record Linkage Algorithms Perform? Lessons from US Historical Data  
 : (with Martha Bailey, Morgan Henderson and Catherine Massey)  
