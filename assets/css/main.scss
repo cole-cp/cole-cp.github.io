@@ -5,7 +5,7 @@
 @charset "utf-8";
 
 
-//$link-color: red;
+
 
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
@@ -29,6 +29,7 @@ html {
   }
 }
 
+$link-color: red;
 
 .site-header {
  background-color: red;
