@@ -23,12 +23,22 @@
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-.greedy-nav a {
-  color: red;
+
+// BACKGROUND COLOR - CURRENTLY RED
+.masthead_menu {
+  background-color: red;
 }
 
+
+/// VERIFIED
+// COLOR OF TOP TEXT - CURRENTLY BLUE
+.greedy-nav a {
+  color: #042c4b;
+}
+
+// COLOR OF BOTTOM OF LINKS - CURRENTLY GOLD
 .greedy-nav .visible-links a:before {
-  background-color: red;
+  background-color: #facb04;
 }
 
 
