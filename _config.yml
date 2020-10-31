@@ -22,7 +22,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 google_site_verification: "google41a0bbb35becdb23.html"
 minimal_mistakes_skin: "air"
 search: false
-logo: /assets/images/UM_Logo_Teaser.jpg
+##logo: /assets/images/UM_Logo_Teaser.jpg
 
 # Build settings
 markdown: kramdown
