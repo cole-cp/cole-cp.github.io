@@ -10,7 +10,7 @@
 //$link-color-visited         : #042c4b;
 
 //verified
-$link-color                 : red;
+//$link-color                 : red;
 //$masthead-link-color        : #042c4b;
 //$footer-background-color    : #042c4b;
 
@@ -23,7 +23,7 @@ $link-color                 : red;
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-.masthead__menu { 
+.greedy-nav a {
   color: red;
 }
 
