@@ -8,7 +8,7 @@
 //unverified
 
 //$link-color-visited         : #042c4b;
-$masthead-link-color-hover: mix(#000, $background-color, 25%) !default;
+//$masthead-link-color-hover: mix(#000, $background-color, 25%) !default;
 //$navicon-link-color-hover: mix(#fff, $primary-color, 75%) !default;
 
 
@@ -45,10 +45,15 @@ $footer-background-color    : #042c4b;
 }
 
 /// VERIFIED
-// COLOR OF TOP TEXT - CURRENTLY BLUE
+// COLOR OF TOP TEXT - CURRENTLY BACKGROUND
 .greedy-nav a {
   color: $background-color;
 }
+
+.greedy-nav a:hover {
+   color: white;
+}
+
 
 // COLOR OF BOTTOM OF LINKS - CURRENTLY GOLD
 .greedy-nav .visible-links a:before {
