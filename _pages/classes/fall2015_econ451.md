@@ -9,4 +9,4 @@ As a graduate student instructor for this course, I created a 12-module class to
 2) Interactive section STATA programs that allow students to try guided exercises in class, and
 3) Homework assignments.
 
-These materials are available [here](/assets/teaching/Cole_Teaching_Summary.pdf).
+These materials are available [here](/assets/teaching/fall2015_econ451/Cole_Econ452_Lessons.zip).
