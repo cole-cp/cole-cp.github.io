@@ -10,7 +10,7 @@ Economics 401 - Intermediate Microeconomic Theory (Undergraduate)
 
 Economics 453 - Intermediate Econometrics II (Undergraduate)  
 : Fall 2015 (Professor Jeff Smith)  
-: [[Class Materials]](_pages/classes/fall2015_econ451.md)
+: [[Class Materials]](/teaching/fall2015_econ453.md)
 
 ## University of California, Berkeley ##
 Economics 100A - Microeconomics (Undergraduate)  
