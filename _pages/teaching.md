@@ -2,7 +2,7 @@
 permalink: /teaching/
 title: "Teaching"
 ---
-Below is an overview of courses I have taught in the past. A summary of my teaching evaluations is available [here](/assets/teaching/Cole_Teaching_Summary.pdf). A teaching philosophy and teaching experinece statement is available [here](/assets/teaching/Cole_Teaching_Statement.pdf)
+Below is an overview of courses I have taught in the past. A summary of my teaching evaluations is available [here](/assets/teaching/Cole_Teaching_Summary.pdf). A teaching philosophy and teaching experience statement is available [here](/assets/teaching/Cole_Teaching_Statement.pdf)
 
 ## University of Michgan, Ann Arbor ##
 Economics 401 - Intermediate Microeconomic Theory (Undergraduate)  
