@@ -8,12 +8,12 @@ I am an economist with the U.S. Treasury Deparment in Washington D.C.. I graduat
 ## Dissertation ##
 
 ## Published Research ##
-How Well do Record Linkage Algorithms Perform? Lessons from U.S. Historical Data  
+How Well Do Record Linkage Algorithms Perform? Lessons from U.S. Historical Data  
 : (with Martha Bailey, Morgan Henderson and Catherine Massey)  
 : *Journal of Economic Literature*, 58(4) (2020), 997-1044.
 : [[pdf]](https://www.nber.org/papers/w24019)   [[published paper (gated)]](https://www.aeaweb.org/articles?id=10.1257/jel.20191526&&from=f)  
 
-Simple strategies for improving inference with linked data: a case study of the 1850–1930 IPUMS linked representative historical samples  
+Simple Strategies for Improving Inference with Linked Data: a Case Study of the 1850–1930 IPUMS Linked Representative Historical Samples  
 : (with Martha Bailey and Catherine Massey)  
 : *Historical Methods*, 53(2) (2019), 80–93.   
 : [[pdf]](assets/papers/BCM_SimpleStrategies.pdf)  [[published paper (gated)]](https://www.tandfonline.com/doi/abs/10.1080/01615440.2019.1630343)
