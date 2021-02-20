@@ -25,7 +25,7 @@ The 2010 National Organizations Survey: Examining the Relationships Between Job 
 : [[pdf]](https://escholarship.org/content/qt1sp77818/qt1sp77818.pdf)
 
 Effect of Family Income in Infancy on Child and Adult Outcomes: New Evidence Using Census Data and Tax Discontinuities (Job Market Paper 2021)  
-:[[pdf]](assets/papers/Cole_JMP.pdf)  
+: [[pdf]](assets/papers/Cole_JMP.pdf)  
 
 
 
