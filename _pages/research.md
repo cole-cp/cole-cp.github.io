@@ -2,22 +2,17 @@
 permalink: /
 title: "Overview and Research"
 ---
-I am a Ph.D. candidate in Economics at the University of Michigan and I expect to graduate in 2021. I am on the job market for 2020-2021 and will be at the 2021 Virtual ASSA Meetings. My research is primarily in labor economics, public economics, economic demography and applied econometrics. This website describes my previous and current research and my teaching history, and offers my CV. 
+I am an economist with the U.S. Treasury Deparment in Washington D.C.. I graduated with my Ph.D. in economics from the Universty of Michigan in 2021. My research is primarily in labor economics, public economics, economic demography and applied econometrics. This website describes my previous and current research and my teaching history, and offers my CV. 
 
 
 ## Dissertation ##
-Chapter 1: Effect of Family Income in Infancy on Child and Adult Outcomes: New Evidence Using Census Data and Tax Discontinuities (Job Market Paper)  
-: [[dissertation abstract]](assets/papers/Cole_Dissertation_Abstract.pdf) [[pdf]](assets/papers/Cole_JMP.pdf)  
-
-Chapter 2: How Well Do Record Linkage Algorithms Perform? Lessons from US Historical Data  
-: (with Martha Bailey, Morgan Henderson and Catherine Massey)  
-: Forthcoming at the *Journal of Economic Literature* (2020)
-: [[dissertation abstract]](assets/papers/Cole_Dissertation_Abstract.pdf) [[pdf]](https://www.nber.org/papers/w24019)   [[published paper (gated)]](https://www.aeaweb.org/articles?id=10.1257/jel.20191526&&from=f)  
-
-**Chapter 3: Short and Long-term Effects of Exposure to Program Eligibility Cutoffs on Behavior: Evidence from the Medicaid Program**  
-: [[dissertation abstract]](assets/papers/Cole_Dissertation_Abstract.pdf) 
 
 ## Published Research ##
+How Well do Record Linkage Algorithms Perform? Lessons from U.S. Historical Data  
+: (with Martha Bailey, Morgan Henderson and Catherine Massey)  
+: *Journal of Economic Literature*, 58(4) (2020), 997-1044.
+: [[pdf]](https://www.nber.org/papers/w24019)   [[published paper (gated)]](https://www.aeaweb.org/articles?id=10.1257/jel.20191526&&from=f)  
+
 Simple strategies for improving inference with linked data: a case study of the 1850–1930 IPUMS linked representative historical samples  
 : (with Martha Bailey and Catherine Massey)  
 : *Historical Methods*, 53(2) (2019), 80–93.   
@@ -28,6 +23,15 @@ The 2010 National Organizations Survey: Examining the Relationships Between Job 
 : (with Clair Brown and Timothy Sturgeon)  
 : December 2013  
 : [[pdf]](https://escholarship.org/content/qt1sp77818/qt1sp77818.pdf)
+
+Chapter 1: Effect of Family Income in Infancy on Child and Adult Outcomes: New Evidence Using Census Data and Tax Discontinuities (Job Market Paper)  
+: [[dissertation abstract]](assets/papers/Cole_Dissertation_Abstract.pdf) [[pdf]](assets/papers/Cole_JMP.pdf)  
+
+
+
+**Chapter 3: Short and Long-term Effects of Exposure to Program Eligibility Cutoffs on Behavior: Evidence from the Medicaid Program**  
+: [[dissertation abstract]](assets/papers/Cole_Dissertation_Abstract.pdf) 
+
 
 ## Research in Progress ##
 Estimating Costs of Reporting Responses to Taxes: Evidence from the Child Tax Credit 
