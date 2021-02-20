@@ -4,9 +4,6 @@ title: "Overview and Research"
 ---
 I am an economist with the U.S. Treasury Deparment in Washington D.C.. I graduated with my Ph.D. in economics from the Universty of Michigan in 2021. My research is primarily in labor economics, public economics, economic demography and applied econometrics. This website describes my previous and current research and my teaching history, and offers my CV. 
 
-
-## Dissertation ##
-
 ## Published Research ##
 How Well Do Record Linkage Algorithms Perform? Lessons from U.S. Historical Data  
 : (with Martha Bailey, Morgan Henderson and Catherine Massey)  
