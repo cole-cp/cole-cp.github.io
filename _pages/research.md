@@ -34,4 +34,4 @@ Estimating Costs of Reporting Responses to Taxes: Evidence from the Child Tax Cr
 Effects of Minimum Wage Policies on Firms: Evidence from Germany  
 : (with Giacomo Brusco)
 
-##Marginal Treatment Effects and Random Judge Assignment - Too LATE to Tell?##
+# Marginal Treatment Effects and Random Judge Assignment - Too LATE to Tell? #
