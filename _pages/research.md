@@ -16,14 +16,16 @@ Simple Strategies for Improving Inference with Linked Data: a Case Study of the 
 : [[pdf]](assets/papers/BCM_SimpleStrategies.pdf)  [[published paper (gated)]](https://www.tandfonline.com/doi/abs/10.1080/01615440.2019.1630343)
 
 ## Working Papers ##
+Effect of Family Income in Infancy on Child and Adult Outcomes: New Evidence Using Census Data and Tax Discontinuities  
+: (Most recent version from 2021)
+: [[pdf]](assets/papers/Cole_JMP.pdf)  
+
 The 2010 National Organizations Survey: Examining the Relationships Between Job Quality and the Domestic and International Sourcing of Business Functions by United States Organizations  
 : (with Clair Brown and Timothy Sturgeon)  
 : (Most recent version from 2013)
 : [[pdf]](https://escholarship.org/content/qt1sp77818/qt1sp77818.pdf)
 
-Effect of Family Income in Infancy on Child and Adult Outcomes: New Evidence Using Census Data and Tax Discontinuities  
-: (Most recent version from 2021)
-: [[pdf]](assets/papers/Cole_JMP.pdf)  
+
 
 
 
