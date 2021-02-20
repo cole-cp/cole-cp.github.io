@@ -24,13 +24,10 @@ The 2010 National Organizations Survey: Examining the Relationships Between Job 
 : December 2013  
 : [[pdf]](https://escholarship.org/content/qt1sp77818/qt1sp77818.pdf)
 
-Chapter 1: Effect of Family Income in Infancy on Child and Adult Outcomes: New Evidence Using Census Data and Tax Discontinuities (Job Market Paper)  
-: [[dissertation abstract]](assets/papers/Cole_Dissertation_Abstract.pdf) [[pdf]](assets/papers/Cole_JMP.pdf)  
+Effect of Family Income in Infancy on Child and Adult Outcomes: New Evidence Using Census Data and Tax Discontinuities (Job Market Paper 2021)  
+:[[pdf]](assets/papers/Cole_JMP.pdf)  
 
 
-
-**Chapter 3: Short and Long-term Effects of Exposure to Program Eligibility Cutoffs on Behavior: Evidence from the Medicaid Program**  
-: [[dissertation abstract]](assets/papers/Cole_Dissertation_Abstract.pdf) 
 
 
 ## Research in Progress ##
