@@ -17,13 +17,23 @@
 //$link-color-hover           : red;
 //$link-color                 : red;
 //$masthead-link-color        : #042c4b;
-$footer-background-color    : #042c4b;
 
+// OLD MICHIGAN HERE
+// $footer-background-color    : #042c4b;
+
+// TREASURY HERE
+ $footer-background-color    : #1f539d;
+
+
+// MICHIGAN COLORS
 //BLUE
 //#042c4b
 
 //GOLD
 //#facb04
+
+// TREASURY COLORS
+// BLUE #1f539d
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
@@ -31,17 +41,17 @@ $footer-background-color    : #042c4b;
 
 
 .masthead {
-    background: #042c4b;
+    background: #1f539d;
 }
 .masthead__menu {
-    background: #042c4b;
+    background: #1f539d;
 }
 .masthead__menu-item {
-     background: #042c4b; 
+     background: #1f539d; 
 }
 
 .greedy-nav {
-    background: #042c4b; 
+    background: #1f539d; 
 }
 
 /// VERIFIED
