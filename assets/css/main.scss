@@ -15,7 +15,7 @@
 
 //verified
 //$link-color-hover           : red;
-$link-color                 : red;
+//$link-color                 : red;
 //$masthead-link-color        : #042c4b;
 
 // OLD MICHIGAN TEXT - DEFAULT BLACk
@@ -109,9 +109,10 @@ html {
 }
 
 // ATTEMPT TO CHANGE SIZE OF ICONS
+// NOT CURRENTLY WORKING
 .author__urls.social-icons svg {
-  height: 10em;
-  width: 10em;
+  height: 3em;
+  width: 3em;
 }
 
 
