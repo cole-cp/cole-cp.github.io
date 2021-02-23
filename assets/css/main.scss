@@ -55,6 +55,9 @@ $background-color           : white;
 
 
 
+
+
+
 .masthead {
     background: #1f539d;
 }
@@ -87,6 +90,7 @@ $background-color           : white;
 }
 
 
+// FONT SIZES
 // 16 18 20 22
 html {
   font-size: 14px; // change to whatever
@@ -104,6 +108,11 @@ html {
   }
 }
 
+// ATTEMPT TO CHANGE SIZE OF ICONS
+.author__urls.social-icons svg {
+  height: 10em;
+  width: 10em;
+}
 
 
 //ul {
