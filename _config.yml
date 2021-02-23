@@ -26,7 +26,7 @@ search: false
 #logo: "/assets/images/UM_Logo_Teaser.jpg"
 
 ### TREASURY LOGO
-logo: "/assets/images/Treasury-logo-final_0.png"
+logo: "/assets/images/Treasury-logo-final_0_crop.png"
 
 # Build settings
 markdown: kramdown
