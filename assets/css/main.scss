@@ -110,9 +110,8 @@ html {
 
 // ATTEMPT TO CHANGE SIZE OF ICONS
 // NOT CURRENTLY WORKING
-.author__urls.social-icons svg {
-  height: 3em;
-  width: 3em;
+.site-logo img {
+  max-height: 5rem;
 }
 
 
