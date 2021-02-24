@@ -22,7 +22,7 @@ Simple Strategies for Improving Inference with Linked Data: a Case Study of the 
 : [[pdf]](assets/papers/BCM_SimpleStrategies.pdf)  [[published paper (gated)]](https://www.tandfonline.com/doi/abs/10.1080/01615440.2019.1630343)
 
 ## Working Papers ##
-Effect of Family Income in Infancy on Child and Adult Outcomes: New Evidence Using Census Data and Tax Discontinuities  
+Effect of Family Income in Infancy on Child and Adult Outcomes: New Evidence Using Census Data and Tax Discontinuities (Job market paper)  
 : (Most recent version from 2021)
 : [[pdf]](assets/papers/Cole_JMP.pdf)  
 
