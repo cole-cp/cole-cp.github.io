@@ -23,7 +23,7 @@ email: "colecp@umich.edu"
 
 ## MICHIGAN DESCRIPTION
 description: >- # this means to ignore newlines until "baseurl:"
-  Website for labor and public economist Connor Cole, a Ph.D. candidate at the University of Michigan and a job market candidate in 2020-2021
+  Website for labor and public economist Connor Cole, a Ph.D. candidate at the University of Michigan and a job market candidate in 2020-2021.
 
 #twitter_username: username
 #github_username: username
@@ -83,7 +83,7 @@ author:
   name   : "Connor Cole"
   avatar : "/assets/images/Cole_Connor_Website.jpg"
 #  bio    : "Public and Labor Economist with the U.S. Treasury Department, Office of Tax Analysis <br><br> Ph.D. in Economics from the University of Michigan"
-  bio    : "Public and Labor Economist from the University of Michigan expecting to graduate in 2021 <br><br> On the economics job market in 2020-2021"
+  bio    : "Public and Labor Economist from the University of Michigan on the economics job market in 2020-2021 <br><br> Expecting to graduate in 2021"
 links:
     - label: "E-mail"
       icon: "fas fa-envelope-square"
