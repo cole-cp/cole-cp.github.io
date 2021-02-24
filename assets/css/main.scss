@@ -50,6 +50,9 @@ $background-color           : white;
 // TREASURY COLORS
 // BLUE #1f539d
 
+// GOLD
+// #feff54
+
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
@@ -86,7 +89,7 @@ $background-color           : white;
 
 // COLOR OF BOTTOM OF LINKS - CURRENTLY GOLD
 .greedy-nav .visible-links a:before {
-  background-color: #facb04;
+  background-color: #feff54;
 }
 
 
