@@ -15,16 +15,8 @@
 # in the templates via {{ site.myvariable }}.
 title: "Connor Cole <br> University of Michigan <br> "
 email: "colecp@umich.edu"
-
-## TEASURY DESCRIPTION
-#description: >- # this means to ignore newlines until "baseurl:"
- # Website for labor and public economist Connor Cole, an economist at the U.S. Treasury Department Office of Tax Analysis and a graduate of the University of Michigan
-
-
-## MICHIGAN DESCRIPTION
 description: >- # this means to ignore newlines until "baseurl:"
-  Website for labor and public economist Connor Cole, a Ph.D. candidate at the University of Michigan and a job market candidate in 2020-2021.
-
+  Website for labor and public economist Connor Cole, an economist at the U.S. Treasury Department Office of Tax Analysis and a graduate of the University of Michigan
 #twitter_username: username
 #github_username: username
 google_site_verification: "google41a0bbb35becdb23.html"
@@ -34,7 +26,7 @@ search: false
 #logo: "/assets/images/UM_Logo_Teaser.jpg"
 
 ### TREASURY LOGO
-#logo: "/assets/images/Treasury-logo-final_0_crop.png"
+logo: "/assets/images/Treasury-logo-final_0_crop.png"
 
 # Build settings
 markdown: kramdown
@@ -79,14 +71,11 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
-#  bio    : "Public and Labor Economist with the U.S. Treasury Department, Office of Tax Analysis <br><br> Ph.D. in Economics from the University of Michigan"
-
-
 author:
   name   : "Connor Cole"
   avatar : "/assets/images/Cole_Connor_Website.jpg"
-  bio    : "Public and labor economist on the economics job market in 2020-2021 <br><br> Expecting to graduate with a Ph.D. in economics from the University of Michigan in 2021"
-links:
+  bio    : "Public and Labor Economist with the U.S. Treasury Department, Office of Tax Analysis <br><br> Ph.D. in Economics from the University of Michigan"
+  links:
     - label: "E-mail"
       icon: "fas fa-envelope-square"
       url: "mailto:colecp@umich.edu"
