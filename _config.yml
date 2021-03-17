@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: "Connor Cole <br> University of Michigan <br> "
-email: "colecp@umich.edu"
+email: "connor.cole.econ@gmail.com"
 description: >- # this means to ignore newlines until "baseurl:"
   Website for labor and public economist Connor Cole, an economist at the U.S. Treasury Department Office of Tax Analysis and a graduate of the University of Michigan
 #twitter_username: username
@@ -81,7 +81,7 @@ author:
   links:
     - label: "E-mail"
       icon: "fas fa-envelope-square"
-      url: "mailto:colecp@umich.edu"
+      url: "mailto:connor.cole.econ@gmail.com"
     - label: "Google Scholar"
       icon: "fab fa-google"
       url: "https://scholar.google.com/citations?user=cy8uz1oAAAAJ&hl=en&oi=ao"
