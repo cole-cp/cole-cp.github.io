@@ -3,9 +3,8 @@ permalink: /
 title: "Overview and Research"
 ---
 
-[comment]: #  NEW COMMENTARY HERE I am an economist with the U.S. Treasury Deparment in Washington D.C.. I graduated with my Ph.D. in economics from the Universty of Michigan in 2021. My research is primarily in labor economics, public economics, economic demography and applied econometrics. This website describes my previous and current research and my teaching history, and offers my CV. 
 
-I am an economist with the U.S. Treasury Deparment in Washington D.C.. I graduated with my Ph.D. in economics from the Universty of Michigan in 2021. My research is primarily in labor economics, public economics, economic demography and applied econometrics. This website describes my previous and current research and my teaching history, and offers my CV. 
+I am an economist with the U.S. Treasury Deparment in Washington D.C.. I graduated with my Ph.D. in economics from the Universty of Michigan in 2021. My research is primarily in labor economics, public economics, economic demography and applied econometrics. This website describes my previous and current research and my teaching history, and offers my CV. Unless otherwise noted, all opinions and conclusions in my research are mine alone and do not necessarily represent those of my employer.  
 
 
 ## Published Research ##
